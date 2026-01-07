@@ -63,5 +63,3 @@ docker-compose up -d
 ## 🏁 Conclusion
 Ce projet valide la mise en place d’une supervision centralisée sur AWS à l’aide de Zabbix conteneurisé, adaptée à un environnement hybride.
 
-## 📄 Licence
-Projet académique – usage pédagogique uniquement.
